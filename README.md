@@ -1,4 +1,4 @@
-#Steve Fleming III
+# Steve Fleming III
 Recently graduated Compute Science major with concentration on Cybersecurity
 
 ## Interests
