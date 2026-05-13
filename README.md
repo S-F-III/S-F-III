@@ -16,7 +16,7 @@ Recently graduated Compute Science major with concentration on Cybersecurity
 - Nmap
 
 ## Projects
-- Practice Penetration Testing Report 
+- [Practice Penetration Test Report](https://github.com/S-F-III/S-F-III/blob/main/Crocodile_PenTestingReport.pdf)
 
 ## Certifications
 -LPIC-1
