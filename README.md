@@ -19,7 +19,7 @@ Recently graduated Compute Science major with concentration on Cybersecurity
 - [Practice Penetration Test Report](https://github.com/S-F-III/S-F-III/blob/main/Crocodile_PenTestingReport.pdf)
 
 ## Certifications
--LPIC-1
+- LPIC-1
 
 ## Contact
 Email: Steve.Fleming1995@gmail.com
