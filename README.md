@@ -15,6 +15,9 @@ Recently graduated Compute Science major with concentration on Cybersecurity
 - Wireshark
 - Nmap
 
+## Projects
+- Practice Penetration Testing Report 
+
 ## Certifications
 -LPIC-1
 
